@@ -1,0 +1,499 @@
+station_id,station_code,station_name,latitude,longitude,altitude,continent,country,region,group
+38115,Tr18_CA_DO1,Blue Chalk Lake,45.1999,-78.9432,344.0,North America,Canada,Ont,Trends
+38116,Tr18_CA_DO2,Chub Lake,45.2138,-78.9836,343.0,North America,Canada,Ont,Trends
+38117,Tr18_CA_DO3,Crosson Lake,45.084,-79.036,371.0,North America,Canada,Ont,Trends
+38118,Tr18_CA_DO4,Dickie Lake,45.151,-79.0876,379.0,North America,Canada,Ont,Trends
+38119,Tr18_CA_DO5,Harp Lake,45.3798,-79.1335,327.0,North America,Canada,Ont,Trends
+38120,Tr18_CA_DO6,Heney Lake,45.128,-79.103,342.0,North America,Canada,Ont,Trends
+38121,Tr18_CA_DO7,Plastic,45.1801,-78.8235,346.0,North America,Canada,Ont,Trends
+38122,Tr18_CA_DO8,Red Chalk Lake (Main),45.19,-78.9486,332.0,North America,Canada,Ont,Trends
+38085,Tr18_CA01,"Ontario, Algoma Region, Batchawana Lake",47.06,-84.393,497.0,North America,Canada,Ont,Trends+Core
+38086,Tr18_CA02,"Ontario, Algoma Region, Wishart Lake",47.041,-84.402,388.0,North America,Canada,Ont,Trends+Core
+38087,Tr18_CA03,"Ontario, Algoma Region, Little Turkey Lake",47.041,-84.406,375.0,North America,Canada,Ont,Trends+Core
+38088,Tr18_CA04,"Ontario, Algoma Region, Turkey Lake",47.05,-84.408,372.0,North America,Canada,Ont,Trends+Core
+38089,Tr18_CA05,"Quebec, Lac Veilleux",47.39,-71.572,716.0,North America,Canada,QuMaVt,Trends+Core
+38090,Tr18_CA06,"Quebec, Lac Josselin",47.367,-71.667,671.0,North America,Canada,QuMaVt,Trends+Core
+38091,Tr18_CA07,"Quebec, Lac Bonneville",47.273,-71.403,808.0,North America,Canada,QuMaVt,Trends+Core
+38092,Tr18_CA08,"Quebec, Lac Laflamme",47.317,-71.117,777.0,North America,Canada,QuMaVt,Trends+Core
+38093,Tr18_CA09,"Quebec, Lac Macleod",47.467,-70.973,975.0,North America,Canada,QuMaVt,Trends+Core
+38095,Tr18_CA11,"Nova Scotia, Mountain Lake",44.323,-65.258,120.0,North America,Canada,AtlCan,Trends+Core
+38096,Tr18_CA12,"Nova Scotia, Little Red Lake",44.337,-65.391,150.0,North America,Canada,AtlCan,Trends+Core
+38097,Tr18_CA13,"Nova Scotia, Kejimkujik Lake",44.38333,-65.25,375.0,North America,Canada,AtlCan,Trends+Core
+38098,Tr18_CA14,"Nova Scotia, Beaverskin Lake",44.305,-65.326,120.0,North America,Canada,AtlCan,Trends+Core
+38099,Tr18_CA16,"Ontario, Lake 224",49.658,-93.717,408.0,North America,Canada,Ont,Trends+Core
+38100,Tr18_CA17,"Ontario, Lake 239",49.707,-93.72,393.0,North America,Canada,Ont,Trends+Core
+38102,Tr18_CA20,"Ontario, Lake 373",49.74,-93.793,424.0,North America,Canada,Ont,Trends+Core
+38103,Tr18_NF02YH0013,Unnamed,49.596667,-57.733333,665.0,North America,Canada,AtlCan,Trends
+38104,Tr18_NF02YH0014,Unnamed,49.437222,-57.531667,571.0,North America,Canada,AtlCan,Trends
+38105,Tr18_NF02YH0015,Unnamed,49.460833,-57.525,457.0,North America,Canada,AtlCan,Trends
+38106,Tr18_NF02YH0025,Unnamed,49.562222,-57.726389,673.0,North America,Canada,AtlCan,Trends
+38107,Tr18_NF02YS0003,Rattle Pond,48.513611,-53.824444,30.0,North America,Canada,AtlCan,Trends
+38108,Tr18_NF02YS0016,Unnamed #2,48.549722,-53.849722,61.0,North America,Canada,AtlCan,Trends
+38109,Tr18_NF02YS0021,Bog Pond,48.494167,-54.133056,197.0,North America,Canada,AtlCan,Trends
+38110,Tr18_NF02YS0029,Long Waters,48.458056,-54.055556,130.0,North America,Canada,AtlCan,Trends
+38111,Tr18_NF02YS0045,Jay Pond,48.636667,-53.884167,73.0,North America,Canada,AtlCan,Trends
+38112,Tr18_NF02YS0065,Shallow #3,48.504167,-53.825,43.0,North America,Canada,AtlCan,Trends
+38113,Tr18_NF02YS0069,Ochre Hill Pond,48.5025,-53.963889,152.0,North America,Canada,AtlCan,Trends
+38114,Tr18_NF02YS0070,Chatman,48.494167,-53.984167,150.0,North America,Canada,AtlCan,Trends
+38123,Tr18_NS01DA0002,TEDFORD LAKE,44.1,-66.0167,61.0,North America,Canada,AtlCan,Trends
+38124,Tr18_NS01DA0003,KILLAM LAKE,44.0006,-66.0819,30.0,North America,Canada,AtlCan,Trends
+38125,Tr18_NS01DA0004,CEDAR LAKE,44.0264,-66.1106,15.0,North America,Canada,AtlCan,Trends
+38126,Tr18_NS01DA0005,LOWER CORNING LAKE,44.0503,-66.0828,30.0,North America,Canada,AtlCan,Trends
+38127,Tr18_NS01DA0006,PIERCE LAKE,44.1192,-66.0969,35.0,North America,Canada,AtlCan,Trends
+38128,Tr18_NS01EA0009,BRENTON LAKE,43.9611,-66.0692,30.0,North America,Canada,AtlCan,Trends
+38129,Tr18_NS01EA0010,TREFRY LAKE,43.8353,-66.0439,15.0,North America,Canada,AtlCan,Trends
+38130,Tr18_NS01EA0019,SNARE LAKE,44.1056,-65.9756,61.0,North America,Canada,AtlCan,Trends
+38131,Tr18_NS01EA0020,BIRD LAKE,43.9731,-65.9442,61.0,North America,Canada,AtlCan,Trends
+38132,Tr18_NS01EA0048,LK GEORGE,43.9994,-66.0542,46.0,North America,Canada,AtlCan,Trends
+38133,Tr18_NS01EA0050,JESSE LAKE,44.0331,-66.0081,30.0,North America,Canada,AtlCan,Trends
+38134,Tr18_NS01ED0010,PEBBLELOGGITCH LAKE,44.3014,-65.3514,120.0,North America,Canada,AtlCan,Trends
+38135,Tr18_NS01ED0013,BEN LAKE,44.3439,-65.3328,170.0,North America,Canada,AtlCan,Trends
+38136,Tr18_NS01ED0043,MOUNT TOM LAKE,44.3681,-65.2997,120.0,North America,Canada,AtlCan,Trends+Core
+38137,Tr18_NS01ED0047,GEORGE LAKE,44.3403,-65.2206,87.0,North America,Canada,AtlCan,Trends
+38138,Tr18_NS01ED0048,LOON LAKE,44.3167,-65.1914,86.0,North America,Canada,AtlCan,Trends
+38139,Tr18_NS01ED0067,BACK LAKE,44.2931,-65.2678,100.0,North America,Canada,AtlCan,Trends
+38140,Tr18_NS01ED0070,BIG DAM WEST LAKE,44.4608,-65.2939,120.0,North America,Canada,AtlCan,Trends
+38141,Tr18_NS01ED0073,BIG DAM EAST LAKE,44.4533,-65.2686,113.0,North America,Canada,AtlCan,Trends
+38142,Tr18_NS01ED0075,PESKOWESK LAKE,44.3167,-65.2828,105.0,North America,Canada,AtlCan,Trends
+38143,Tr18_NS01ED0076,GRAFTON LAKE,44.3858,-65.1775,100.0,North America,Canada,AtlCan,Trends
+38144,Tr18_NS01ED0077,HIGH LAKE,44.3558,-65.2581,90.0,North America,Canada,AtlCan,Trends
+38145,Tr18_NS01ED0078,COBRIELLE LAKE,44.3164,-65.2328,129.0,North America,Canada,AtlCan,Trends
+38146,Tr18_NS01ED0080,BIG RED LAKE,44.3494,-65.3828,160.0,North America,Canada,AtlCan,Trends
+38147,Tr18_NS01ED0081,MUD LAKE,44.28,-65.2206,100.0,North America,Canada,AtlCan,Trends
+38148,Tr18_NS01ED0082,SNAKE LAKE,44.3567,-65.2064,90.0,North America,Canada,AtlCan,Trends
+38149,Tr18_NS01ED0083,LIBERTY LAKE,44.3856,-65.4267,135.0,North America,Canada,AtlCan,Trends
+38150,Tr18_NS01ED0085,FROZEN OCEAN LAKE,44.4519,-65.3456,105.0,North America,Canada,AtlCan,Trends
+38151,Tr18_NS01ED0086,CHANNEL LAKE,44.4256,-65.3097,100.0,North America,Canada,AtlCan,Trends
+38152,Tr18_NS01ED0088,POPLAR LAKE,44.3542,-65.4389,170.0,North America,Canada,AtlCan,Trends
+38153,Tr18_NS01ED0091,LUXTON LAKE,44.3617,-65.3428,135.0,North America,Canada,AtlCan,Trends
+38154,Tr18_NS01ED0093,MCGINTY LAKE,44.36,-65.1608,105.0,North America,Canada,AtlCan,Trends
+38155,Tr18_NS01ED0094,PESKAWA LAKE,44.3178,-65.3622,120.0,North America,Canada,AtlCan,Trends
+38156,Tr18_NS01ED0095,UPPER SILVER LAKE,44.2828,-65.2467,90.0,North America,Canada,AtlCan,Trends
+38157,Tr18_NS01EE0006,LITTLE TUPPER LAKE,44.4167,-64.9667,107.0,North America,Canada,AtlCan,Trends
+38158,Tr18_NS01EE0028,HUEY LAKE,44.3906,-64.7333,107.0,North America,Canada,AtlCan,Trends
+38159,Tr18_NS01EE0030,HIRTLE LAKE,44.4667,-64.75,91.0,North America,Canada,AtlCan,Trends
+38160,Tr18_NS01EE0031,MATTHEW LAKE,44.3281,-64.6831,99.0,North America,Canada,AtlCan,Trends
+38161,Tr18_NS01EE0061,ANNIS LAKE,44.3331,-64.8383,76.0,North America,Canada,AtlCan,Trends
+38162,Tr18_NS01EF0016,LITTLE WILES LAKE,44.4,-64.6472,122.0,North America,Canada,AtlCan,Trends
+38163,Tr18_NS01EF0017,ROCKY LAKE,44.4831,-64.7331,98.0,North America,Canada,AtlCan,Trends
+38164,Tr18_NS01EN0006,HOOPER LAKE,45.0211,-62.0544,46.0,North America,Canada,AtlCan,Trends
+38165,Tr18_NS01EN0008,NOWLIN LAKE,44.9464,-62.3597,30.0,North America,Canada,AtlCan,Trends
+38166,Tr18_NS01EN0009,NOWLIN LAKE,44.9831,-62.3667,60.0,North America,Canada,AtlCan,Trends
+38167,Tr18_NS01EN0021,ROUND LAKE,45.0667,-62.3331,78.0,North America,Canada,AtlCan,Trends
+38168,Tr18_NS01EN0024,KELLY LAKE,45.0497,-62.3331,85.0,North America,Canada,AtlCan,Trends
+38169,Tr18_NS01EN0027,KELLY LAKE,44.9833,-62.4167,46.0,North America,Canada,AtlCan,Trends
+38170,Tr18_QC-114,Najoua,47.04167,-72.08333,366.0,North America,Canada,QuMaVt,Trends
+38171,Tr18_QC-201,Eclair,46.85556,-72.99722,320.0,North America,Canada,QuMaVt,Trends
+38172,Tr18_QC-202,Lemaine,47.723,-71.76983,549.0,North America,Canada,QuMaVt,Trends
+38173,Tr18_QC-203,Truite-Rouge,46.15,-74.08333,533.0,North America,Canada,QuMaVt,Trends
+38174,Tr18_QC-204,Francina,46.83889,-73.00833,331.0,North America,Canada,QuMaVt,Trends
+38175,Tr18_QC-211,Congre,47.69733,-72.02817,488.0,North America,Canada,QuMaVt,Trends
+38176,Tr18_QC-212,Fauvette,47.33889,-73.23333,396.0,North America,Canada,QuMaVt,Trends
+38177,Tr18_QC-213,Adanys,46.80556,-74.325,594.0,North America,Canada,QuMaVt,Trends
+38178,Tr18_QC-214,Boisvert,46.75833,-74.04444,472.0,North America,Canada,QuMaVt,Trends
+38179,Tr18_QC-215,Thibert,46.65,-73.16667,335.0,North America,Canada,QuMaVt,Trends
+38180,Tr18_QC-216,M90997,47.30833,-72.38611,343.0,North America,Canada,QuMaVt,Trends
+38181,Tr18_QC-301,Chomeur,47.83583,-72.20767,412.0,North America,Canada,QuMaVt,Trends
+38182,Tr18_QC-302,Thomas,47.88133,-70.2375,625.0,North America,Canada,QuMaVt,Trends
+38183,Tr18_QC-303,Nolette,47.08333,-73.79167,396.0,North America,Canada,QuMaVt,Trends
+38184,Tr18_QC-311,Daniel,47.79183,-71.80517,533.0,North America,Canada,QuMaVt,Trends
+38185,Tr18_QC-312,Belle-Truite,47.822,-70.59867,823.0,North America,Canada,QuMaVt,Trends
+38186,Tr18_QC-313,Pothier,47.64167,-73.04167,305.0,North America,Canada,QuMaVt,Trends
+38187,Tr18_QC-314,Laurent,46.475,-74.2,457.0,North America,Canada,QuMaVt,Trends
+38188,Tr18_QC-315,Harvey,47.9185,-71.6375,571.0,North America,Canada,QuMaVt,Trends
+38189,Tr18_QC-316,desEnfers,47.72333,-70.904,788.0,North America,Canada,QuMaVt,Trends
+38190,Tr18_QC-402,Kidney,46.20833,-75.23333,290.0,North America,Canada,QuMaVt,Trends
+38191,Tr18_QC-502,David,46.30833,-75.58333,213.0,North America,Canada,QuMaVt,Trends
+38192,Tr18_QC-601,m6827,46.98417,-78.0,335.0,North America,Canada,QuMaVt,Trends
+38193,Tr18_QC-602,m88188,46.8,-77.40833,457.0,North America,Canada,QuMaVt,Trends
+38194,Tr18_QC-603,Poirier,46.925,-76.775,426.0,North America,Canada,QuMaVt,Trends
+38195,Tr18_QC-604,Bleriot,46.52972,-76.74444,335.0,North America,Canada,QuMaVt,Trends
+38196,Tr18_QC-611,Triquet,47.13222,-78.18556,335.0,North America,Canada,QuMaVt,Trends
+38197,Tr18_QC-612,Murex,47.09444,-77.14306,381.0,North America,Canada,QuMaVt,Trends
+38198,Tr18_QC-613,m6740,46.51667,-77.25,304.0,North America,Canada,QuMaVt,Trends
+38199,Tr18_QC-614,m49007,46.98333,-76.96667,409.0,North America,Canada,QuMaVt,Trends
+38200,Tr18_QC-615,m49083,46.88333,-76.83333,393.0,North America,Canada,QuMaVt,Trends
+38201,Tr18_CZ01,"Bohemian Forest, Cerne",49.1814138331,13.1866242498,1005.0,Europe,Czech Republic,ECE,Trends+Core
+38202,Tr18_CZ02,"Bohemian Forest, Certovo",49.1653744194,13.2002722157,1002.0,Europe,Czech Republic,ECE,Trends+Core
+38203,Tr18_CZ03,"Bohemian Forest, Plesne",48.7778100189,13.8677297865,1086.0,Europe,Czech Republic,ECE,Trends+Core
+38204,Tr18_CZ04,"Bohemian Forest, Prasilske",49.075652392,13.4014248334,1079.0,Europe,Czech Republic,ECE,Trends+Core
+38205,Tr18_CZ05,"Bohemian Forest, Laka",49.1117808287,13.3293352724,1085.0,Europe,Czech Republic,ECE,Trends+Core
+38206,Tr18_CZ06,"Bohemian Forest, Zdarske",48.9348389111,13.6533120767,948.0,Europe,Czech Republic,ECE,Trends+Core
+38207,Tr18_CZ07,Lysina,50.0344168324,12.669428285,829.0,Europe,Czech Republic,ECE,Trends+Core
+38208,Tr18_CZ08,Uhlirska,50.8167,15.1333,780.0,Europe,Czech Republic,ECE,Trends+Core
+23540,EE01,"River Ahja, Kiidjärve",58.145,26.977,,Europe,Estonia,Baltic,Core
+38209,Tr18_FI_11165,Hirvilampi,60.7054,27.9181,34.0,Europe,Finland,SoNord,Trends+Core
+38221,Tr18_FI_11397,Luomijärvi,60.6981,27.1471,42.0,Europe,Finland,SoNord,Trends
+38214,Tr18_FI_14538,Sonnanen,61.2944,26.4147,100.0,Europe,Finland,SoNord,Trends+Core
+38217,Tr18_FI_1898,Valkea-Kotinen,61.2423,25.0634,155.0,Europe,Finland,SoNord,Trends+Core
+36463,SE24,Lill-Fämtan,60.843351,13.122309,,Europe,Sweden,SoNord,Core
+23597,SE01,Delångersån Iggersund,61.6365,17.087167,0.0,Europe,Sweden,SoNord,Core
+36459,SE20,Stormyrbäcken,62.260299,16.271277,,Europe,Sweden,SoNord,Core
+38222,Tr18_FI_24516,Kangastakunen,61.6127,25.1221,129.0,Europe,Finland,SoNord,Trends
+38227,Tr18_FI_25830,Iso-Soukka,62.381,25.4449,177.0,Europe,Finland,SoNord,Trends
+38219,Tr18_FI_2987,Simijärvi,60.1677,23.5702,46.0,Europe,Finland,SoNord,Trends
+38212,Tr18_FI_2998,Vitsjön,59.9634,23.3158,16.0,Europe,Finland,SoNord,Trends+Core
+38215,Tr18_FI_24486,Iso Hietajärvi,63.1615,30.7103,164.0,Europe,Finland,NoNord,Trends+Core
+38228,Tr18_FI_24488,Pieni Hietajärvi,63.1638,30.6929,164.0,Europe,Finland,NoNord,Trends
+38272,Tr18_NO_1569-601,Skardvatnet,63.30043339,8.776536212,346.0,Europe,Norway,NoNord,Trends
+38355,Tr18_SE_133,Gosjön,63.47439018,15.42884821,63.0,Europe,Sweden,NoNord,Trends
+38213,Tr18_FI_23377,Kakkisenlampi,63.6565,29.9466,131.0,Europe,Finland,NoNord,Trends+Core
+38229,Tr18_FI_30963,Älänne,63.7268,28.2352,203.0,Europe,Finland,NoNord,Trends
+38226,Tr18_FI_4161,Kangasjärvi,62.1662,22.0038,121.0,Europe,Finland,SoNord,Trends
+38391,Tr18_SE_132,Stensjön,63.86088147,18.27265013,268.0,Europe,Sweden,NoNord,Trends+Core
+38348,Tr18_SE_55,Edasjön,63.87168667,16.22936317,17.0,Europe,Sweden,NoNord,Trends
+38291,Tr18_NO_1630-601,Grovlivatnet,63.89958178,10.15429989,180.0,Europe,Norway,NoNord,Trends
+38220,Tr18_FI_678,Kattilajärvi,60.3014,24.616,61.0,Europe,Finland,SoNord,Trends
+38216,Tr18_FI_719,Iso Lehmälampi,60.3444,24.599,91.0,Europe,Finland,SoNord,Trends+Core
+38225,Tr18_FI_8404,Koverojärvi,62.0178,23.9304,128.0,Europe,Finland,SoNord,Trends
+38223,Tr18_FI_9517,Iso-Hanhijärvi,61.7991,24.2811,152.0,Europe,Finland,SoNord,Trends
+38224,Tr18_FI_9518,Siikajärvi,61.8102,24.2072,186.0,Europe,Finland,SoNord,Trends
+23505,DE01,"Schwarzwald, Dürreychbach",48.750167,8.443167,730.0,Europe,Germany,WCE,Core
+23506,DE02,"Fichtelgebirge, Eger",50.085,11.8245,664.0,Europe,Germany,ECE,Core
+23507,DE03,"Rothaargebirge, Elberndorfer Bach",50.987833,8.201333,540.0,Europe,Germany,WCE,Core
+23509,DE05,"Schwarzwald, Goldersbach",47.874167,8.055167,1100.0,Europe,Germany,WCE,Core
+23510,DE06,"Hunsrück, Gräfenbach",49.924,7.619167,515.0,Europe,Germany,WCE,Core
+23511,DE07,"Erzgebirge, Grosse Pyra",50.409667,12.5335,745.0,Europe,Germany,ECE,Core
+23512,DE08,"Bayerischer Wald, Grosse Ohe",48.934667,13.4085,770.0,Europe,Germany,ECE,Core
+23514,DE10,"Bayerischer Wald, Hinterer Schachtenbach",48.9385,13.4085,771.0,Europe,Germany,ECE,Core
+23516,DE12,"Harz, Lange Bramke",51.855,10.421,,Europe,Germany,WCE,Core
+23517,DE13,"Erzgebirge, Talsperre Neunzehnhain",50.7075,13.152167,525.0,Europe,Germany,ECE,Core
+23521,DE17,"Bayerischer Wald, Rachelsee",48.9715,13.403,1071.0,Europe,Germany,ECE,Core
+23522,DE18,"Fichtelgebirge, Röslau",50.041167,11.900833,660.0,Europe,Germany,ECE,Core
+23525,DE21,"Erzgebirge, Rote Pockau",50.617167,13.191167,635.0,Europe,Germany,ECE,Core
+23527,DE23,"Bayerischer Wald, Seebach",48.939667,13.405333,771.0,Europe,Germany,ECE,Core
+23530,DE26,"Hunsrück, Traunbach 1",49.718667,7.109833,620.0,Europe,Germany,WCE,Core
+23531,DE27,"Bayerischer Wald, Vorderer Schachtenbach",48.935833,13.4085,771.0,Europe,Germany,ECE,Core
+23532,DE28,Oberpfälzer Wald. Waldnaab 2,49.769167,12.421333,727.0,Europe,Germany,ECE,Core
+23533,DE29,"Oberpfälzer Wald, Waldnaab 8",49.789,12.424167,615.0,Europe,Germany,ECE,Core
+23534,DE30,"Erzgebirge, Wilde Weisseritz",50.722,13.706167,695.0,Europe,Germany,ECE,Core
+23535,DE31,"Erzgebirge, Wolfsbach",50.319,12.136833,565.0,Europe,Germany,ECE,Core
+23536,DE32,"Rothaargebirge, Zinse",51.001167,8.203333,540.0,Europe,Germany,WCE,Core
+23537,DE33,"Fichtelgebirge, Zinnbach",50.005333,11.900833,695.0,Europe,Germany,ECE,Core
+23515,DE35,"Schwarzwald, Kleine Kinzig Huettenhardt",48.419833,8.358833,620.0,Europe,Germany,WCE,Core
+23552,IE01,"Wicklow, Glendalough, Lake Upper, Mid Lake",53.0,-6.35,133.0,Europe,Ireland,UK-IE-NL,Core
+23556,IE05,"Galway, Lough Maumwee, Mid Lake",53.4773799999999,-9.541,48.0,Europe,Ireland,UK-IE-NL,Core
+23559,IE08,"Donegal, Lough Veagh, Mid Lake",55.0475199999999,-7.95363,,Europe,Ireland,UK-IE-NL,Core
+23562,IT01,"Piemonte, Lake Paione Inferiore",46.169,8.187667,2002.0,Europe,Italy,Alps,Core
+23563,IT02,"Piemonte, Lake di Mergozzo",45.9535,8.457833,194.0,Europe,Italy,Alps,Core
+23564,IT03,"Piemonte, Lake Paione Superiore",46.173167,8.187667,2269.0,Europe,Italy,Alps,Core
+23565,IT04,"Piemonte, River Cannobino",46.068,8.692667,193.0,Europe,Italy,Alps,Core
+23566,IT05,"Piemonte, River Pellino",45.8015,8.3865,290.0,Europe,Italy,Alps,Core
+23567,IT06,"Piemonte, River Pellesino",45.791667,8.384667,290.0,Europe,Italy,Alps,Core
+23570,LV03,"Liela Jugla, Zaki",56.9715,24.4874,12.0,Europe,Latvia,Baltic,Core
+23571,LV04,"Tulija,  Zoseni",57.1362,25.9037,176.0,Europe,Latvia,Baltic,Core
+23572,LV05,"Zvirbuli stream, hydrosite",56.912,23.4544,8.0,Europe,Latvia,Baltic,Core
+38605,Tr18_NL_AGE,Achterste Goorven,51.5647,5.2138,14.0,Europe,Netherlands,UK-IE-NL,Trends+Core
+38606,Tr18_NL_GER-GEP,Gerritsfles,52.1597999999999,5.81799999999999,40.0,Europe,Netherlands,UK-IE-NL,Trends+Core
+38607,Tr18_NL_KLI,Kliplo,52.8344999999999,6.43839999999999,14.0,Europe,Netherlands,UK-IE-NL,Trends+Core
+38269,Tr18_NO_1004-13,Store Eitlandsvatn,58.4944456,6.735275994,392.0,Europe,Norway,SoNord,Trends
+38310,Tr18_NO_1004-15,Botnevatnet,58.28604769,6.490127658,49.0,Europe,Norway,SoNord,Trends
+38306,Tr18_NO_1014-12,Sognevatn,58.31626591,7.675423833,268.0,Europe,Norway,SoNord,Trends
+38298,Tr18_NO_1014-25,Drivenesvatn,58.2926082,7.930483223,168.0,Europe,Norway,SoNord,Trends
+38292,Tr18_NO_101-605,Holvatn,59.10266518,11.52546236,164.0,Europe,Norway,SoNord,Trends
+38285,Tr18_NO_1018-4,Kleivsetvannet,58.11955922,7.664899414,93.0,Europe,Norway,SoNord,Trends
+38243,Tr18_NO_1021-14,Homestadvatnet,58.20391668,7.443580121,282.0,Europe,Norway,SoNord,Trends
+38265,Tr18_NO_1026-210,Stigebottsvatn,58.75758304,7.314652572,814.0,Europe,Norway,SoNord,Trends
+38261,Tr18_NO_1032-14,Troldevatnet,58.22933172,6.992340511,278.0,Europe,Norway,SoNord,Trends
+38249,Tr18_NO_1034-19,Indre Espelandsvatnet,58.3053978,7.160169577,391.0,Europe,Norway,SoNord,Trends
+38288,Tr18_NO_1034-8,Trollselvatn,58.54860913,7.206117638,617.0,Europe,Norway,SoNord,Trends
+38271,Tr18_NO_1037-17,Heievatn,58.63132399,6.969318014,500.0,Europe,Norway,SoNord,Trends
+38297,Tr18_NO_105-501,Isebakktjern,59.3436387,10.96962801,60.0,Europe,Norway,SoNord,Trends
+38245,Tr18_NO_1101-43,Glypstadvatnet,58.48722272,6.188383588,252.0,Europe,Norway,SoNord,Trends
+38275,Tr18_NO_1111-3,Ljosvatnet,58.41941957,6.210911652,150.0,Europe,Norway,SoNord,Trends
+38273,Tr18_NO_1119-602,Homsevatn,58.56319599,5.860664424,142.0,Europe,Norway,SoNord,Trends
+38290,Tr18_NO_1154-601,Røyravatnet,59.54403693,6.024655227,231.0,Europe,Norway,SoNord,Trends
+38299,Tr18_NO_118-502,Breidtjern,59.12299311,11.68399747,190.0,Europe,Norway,SoNord,Trends
+38277,Tr18_NO_1211-601,Vaulavatn,59.8261312,6.365323792,879.0,Europe,Norway,SoNord,Trends
+38251,Tr18_NO_1222-502,Inste Sørlivatn,59.8720963,5.41981444,262.0,Europe,Norway,SoNord,Trends
+38262,Tr18_NO_1228-501,Steinavatn,59.85987744,6.578782875,1047.0,Europe,Norway,SoNord,Trends
+38317,Tr18_NO_1251-601,Oddmunddalsvatnet,60.53099003,5.981983631,764.0,Europe,Norway,SoNord,Trends
+38268,Tr18_NO_1263-601,Båtevatn,60.72836351,5.511969728,451.0,Europe,Norway,SoNord,Trends
+38239,Tr18_NO_137-501,Ravnsjøen,59.40299288,10.99898211,82.0,Europe,Norway,SoNord,Trends
+38286,Tr18_NO_1401-501,Langevatn,61.67024995,5.17921279,470.0,Europe,Norway,SoNord,Trends
+38267,Tr18_NO_1418-601,Nystølsvatn,61.34251364,6.459470653,715.0,Europe,Norway,SoNord,Trends
+38282,Tr18_NO_1443-501,Movatn,61.97845281,6.18333754,422.0,Europe,Norway,SoNord,Trends
+38309,Tr18_NO_1502-602,Lunddalsvatnet,62.81907312,7.532253923,254.0,Europe,Norway,SoNord,Trends
+38257,Tr18_NO_1511-601,Blæjevatnet,62.05147109,5.784194626,700.0,Europe,Norway,SoNord,Trends
+38258,Tr18_NO_1630-603,Skjerivatnet,63.96346534,10.56412585,357.0,Europe,Norway,NoNord,Trends
+38404,Tr18_SE_87,Ulvsjön,64.05999346,20.26201796,211.0,Europe,Sweden,NoNord,Trends
+38345,Tr18_SE_88,Bysjön,64.23774044,20.43874576,125.0,Europe,Sweden,NoNord,Trends
+38248,Tr18_NO_1640-603,Tufsingen,62.61229385,11.87655848,781.0,Europe,Norway,SoNord,Trends
+38307,Tr18_NO_1725-3-14,Bjørfarvatnet,64.2778809,10.98676906,263.0,Europe,Norway,NoNord,Trends
+38349,Tr18_SE_131,Fagertärn,64.28241084,14.69168726,169.0,Europe,Sweden,NoNord,Trends
+38280,Tr18_NO_1742-501,Grytsjøen,64.3907790003687,12.084832532812,372.0,Europe,Norway,NoNord,Trends
+38397,Tr18_SE_137,Stor-Tjulträsket,64.59742455,17.60035753,542.0,Europe,Sweden,NoNord,Trends
+38230,Tr18_FI_35781,Takkajärvi,64.9526,28.2152,188.0,Europe,Finland,NoNord,Trends
+38250,Tr18_NO_1740-602,Storgåsvatnet,65.056,13.172,493.0,Europe,Norway,NoNord,Trends
+38398,Tr18_SE_69,Svinarydsjön,65.63575568,17.45065728,28.0,Europe,Sweden,NoNord,Trends
+38409,Tr18_SE_75,Älgarydssjön,65.6622497,18.55608001,201.0,Europe,Sweden,NoNord,Trends
+36464,SE25,Laxtjärnsbäcken,65.786979,19.091654,,Europe,Sweden,NoNord,Core
+38394,Tr18_SE_86,Storasjö,65.96081898,16.0678927,253.0,Europe,Sweden,NoNord,Trends+Core
+38373,Tr18_SE_1081,Mossjön,66.28473664,23.18813412,278.0,Europe,Sweden,NoNord,Trends
+38231,Tr18_FI_43321,Pesosjärvi,66.2969,29.5083,255.0,Europe,Finland,NoNord,Trends
+38289,Tr18_NO_1840-601,Kjemåvatnet,66.75098078,15.41023671,626.0,Europe,Norway,NoNord,Trends
+36461,SE22,Muddusälven,66.767146,20.128944,,Europe,Sweden,NoNord,Core
+38377,Tr18_SE_78,Rammsjön,66.81457422,16.61849502,160.0,Europe,Sweden,NoNord,Trends
+38210,Tr18_FI_37562,Suopalampi,67.0655,26.0946,255.0,Europe,Finland,NoNord,Trends+Core
+38211,Tr18_FI_37831,Vasikkajärvi,67.117,26.0844,241.0,Europe,Finland,NoNord,Trends+Core
+38244,Tr18_NO_1845-601,Tennvatn,67.59379619,15.48788994,339.0,Europe,Norway,NoNord,Trends
+38259,Tr18_NO_1859-601,Storvatn,68.054,13.35,25.0,Europe,Norway,NoNord,Trends
+38237,Tr18_NO_221-605,Store Lyseren,59.77566137,11.7731881,229.0,Europe,Norway,SoNord,Trends
+38240,Tr18_NO_221-607,Holvatn,59.74282989,11.57645744,214.0,Europe,Norway,SoNord,Trends
+38236,Tr18_NO_301-605,Langvann,60.10720232,10.75741508,342.0,Europe,Norway,SoNord,Trends
+38305,Tr18_NO_402-604,Storbørja,60.09129171,11.92741667,301.0,Europe,Norway,SoNord,Trends
+38284,Tr18_NO_418-603,Skurvsjøen,60.56689988,11.65456601,432.0,Europe,Norway,SoNord,Trends
+38304,Tr18_NO_423-601,Meitsjøen,60.38672573,11.81050092,358.0,Europe,Norway,SoNord,Trends
+38302,Tr18_NO_429-601,Holmsjøen,61.15139884,11.62362593,559.0,Europe,Norway,SoNord,Trends
+38278,Tr18_NO_512-601,Svartdalsvatnet,62.27192663,8.84009413,1018.0,Europe,Norway,SoNord,Trends
+38235,Tr18_NO_623-603,Breidlivatnet,59.97766875,10.15203664,632.0,Europe,Norway,SoNord,Trends
+38311,Tr18_NO_631-607,Skakktjern,59.89165394,9.307344774,547.0,Europe,Norway,SoNord,Trends
+38300,Tr18_NO_713-601,Øyvannet (Store),59.63502669,10.10480643,442.0,Europe,Norway,SoNord,Trends
+38241,Tr18_NO_819-501,Nedre Furuvatn,59.27288867,8.842092958,605.0,Europe,Norway,SoNord,Trends
+38266,Tr18_NO_827-601,Heddersvatnet,59.83261149,8.735980425,1138.0,Europe,Norway,SoNord,Trends
+38247,Tr18_NO_831-501,Brårvatn,59.2949206,7.727117568,902.0,Europe,Norway,SoNord,Trends
+38263,Tr18_NO_833-603,Skurevatn,59.58859315,7.553098051,1269.0,Europe,Norway,SoNord,Trends
+38270,Tr18_NO_834-614,Stavsvatn,59.63187564,8.113747337,1053.0,Europe,Norway,SoNord,Trends
+38238,Tr18_NO_914-501,Sandvatn,58.68506741,8.962033086,150.0,Europe,Norway,SoNord,Trends
+38303,Tr18_NO_919-606,Hundevatn,58.59264116,8.54065003,286.0,Europe,Norway,SoNord,Trends
+38301,Tr18_NO_935-7,Grunnevatn,58.38993819,7.970301523,250.0,Europe,Norway,SoNord,Trends
+38293,Tr18_NO_938-66,Grimsdalsvatn,58.74743615,7.971849903,463.0,Europe,Norway,SoNord,Trends
+38296,Tr18_NO_940-501,Tjøremovatn/Tjurrmovatn,59.07689882,7.447322068,720.0,Europe,Norway,SoNord,Trends
+38281,Tr18_NO_940-502,Myklevatn,59.05667734,7.373266726,785.0,Europe,Norway,SoNord,Trends
+38279,Tr18_NO_940-527,Skammevatn,59.21090798,7.242517001,1075.0,Europe,Norway,SoNord,Trends
+38260,Tr18_NO_941-24,Bånevatn,59.50484238,7.113197566,1115.0,Europe,Norway,SoNord,Trends
+38312,Tr18_NO_BIE01,Birkenes,58.38542613,8.241721137,190.0,Europe,Norway,SoNord,Trends+Core
+38287,Tr18_NO_1850-603,Kjerrvatn,68.078,16.034,209.0,Europe,Norway,NoNord,Trends
+38315,Tr18_NO_KAE01,Kårvatn feltforskningsstasjon,62.78288336,8.893442731,210.0,Europe,Norway,SoNord,Trends+Core
+38242,Tr18_NO_LAE01,"Langtjern, utløp",60.37246,9.72666,516.0,Europe,Norway,SoNord,Trends+Core
+38313,Tr18_NO_OVELV 19 23,Øygardsbekken,58.62193342,6.106409331,300.0,Europe,Norway,SoNord,Trends
+38314,Tr18_NO_STE01,Storgama v. dam,59.05233316,8.653606351,587.0,Europe,Norway,SoNord,Trends+Core
+38246,Tr18_NO_SVART01,Svartetjernet,60.83106238,5.568353828,267.0,Europe,Norway,SoNord,Trends
+38568,PL09,Lekuk Wielki,54.128168,22.0267969999999,127.0,Europe,Poland,ECE,Core
+38318,Tr18_GA-04,Dlugi Staw Gasienicowy,49.22726355,20.00870971,1784.0,Europe,Poland,ECE,Trends+Core
+38319,Tr18_GA-07,Zielony Staw Gasienicowy,49.22879583,20.00011712,1672.0,Europe,Poland,ECE,Trends+Core
+38320,Tr18_MO-01,Czarny Staw pod Rysami,49.1888,20.0778,1581.0,Europe,Poland,ECE,Trends
+38321,Tr18_MO-02,Morskie oko,49.1978,20.0722,1394.0,Europe,Poland,ECE,Trends
+38322,Tr18_MO-06,"Wyzni Mnichowy Stawek, Najwiekszy (IX)",49.19417072,20.05366248,1866.0,Europe,Poland,ECE,Trends
+38323,Tr18_BA-01,Batizovské pleso,49.15203,20.12988,1884.0,Europe,Slovakia,ECE,Trends
+38324,Tr18_FU-01,Vyšné Wahlenbergovo pleso,49.16383,20.02567,2150.0,Europe,Slovakia,ECE,Trends
+38325,Tr18_ME-01,Velké Hincovo pleso,49.17917,20.05904,1953.0,Europe,Slovakia,ECE,Trends
+38326,Tr18_ME-02,Malé Hincovo pleso,49.17398,20.05742,1927.0,Europe,Slovakia,ECE,Trends
+38327,Tr18_ME-04,Vyšné Satanie pliesko,49.17006,20.06079,1903.0,Europe,Slovakia,ECE,Trends
+38328,Tr18_NE-01,Vyšné Terianske pleso,49.16774,20.02059,2112.0,Europe,Slovakia,ECE,Trends
+38329,Tr18_NE-03,Nižné Terianske pleso,49.16966,20.01287,1943.0,Europe,Slovakia,ECE,Trends
+38330,Tr18_RO-01,Štvrté Rohácske pleso,49.20589,19.73576,1719.0,Europe,Slovakia,ECE,Trends
+38331,Tr18_SL-02,Slavkovské pleso,49.1526,20.18326,1676.0,Europe,Slovakia,ECE,Trends
+38332,Tr18_ST-01,Jamské pleso,49.13301,20.01243,1447.0,Europe,Slovakia,ECE,Trends
+38333,Tr18_VS-04,Ladové pleso,49.18409,20.16141,2057.0,Europe,Slovakia,ECE,Trends
+38334,Tr18_VS-15,Starolesnianske pleso,49.18013,20.16669,1988.0,Europe,Slovakia,ECE,Trends
+38335,Tr18_SE_136,Abiskojaure,68.30743963,18.65662239,488.0,Europe,Sweden,NoNord,Trends+Core
+23598,SE02,Alsterån Getebro,57.009,16.159,60.0,Europe,Sweden,SoNord,Core
+23603,SE09,Fiolen,57.092239,14.532463,226.0,Europe,Sweden,SoNord,Core
+38370,Tr18_SE_92,Limmingsjön,68.34963039,18.48825786,236.0,Europe,Sweden,NoNord,Trends
+36460,SE21,Pipbäcken Nedre,57.066475,12.792359,,Europe,Sweden,SoNord,Core
+38232,Tr18_FI_39478,Sierramjärvi,69.1847,26.8978,254.0,Europe,Finland,NoNord,Trends+Core
+36462,SE23,Lommabäcken Nedre,58.700369,14.642744,,Europe,Sweden,SoNord,Core
+38283,Tr18_NO_1927-501,Kapervatnet (Lille),69.243607,17.311394,214.0,Europe,Norway,NoNord,Trends
+38294,Tr18_NO_2030-619,Fævatnet,69.25399259,28.92773965,177.0,Europe,Norway,NoNord,Trends
+38344,Tr18_SE_101,Brännträsket,58.3138079,12.5020235,80.0,Europe,Sweden,SoNord,Trends
+38390,Tr18_SE_102,St. Lummersjön,58.76183792,16.23390082,240.0,Europe,Sweden,SoNord,Trends
+38411,Tr18_SE_105,Öjsjön,59.1642261,18.02275233,99.0,Europe,Sweden,SoNord,Trends
+38338,Tr18_SE_1070,Alstern,59.72441085,12.75795876,160.0,Europe,Sweden,SoNord,Trends
+38369,Tr18_SE_1071,Lill-Jangen,59.991358,13.347346,196.0,Europe,Sweden,SoNord,Trends
+38395,Tr18_SE_1072,Stor-En,59.81068381,14.62648746,266.0,Europe,Sweden,SoNord,Trends
+38339,Tr18_SE_1074,Betarsjön,59.21896206,17.82696563,198.0,Europe,Sweden,SoNord,Trends
+38384,Tr18_SE_1075,Skäravattnet,59.77081114,18.31730238,91.0,Europe,Sweden,SoNord,Trends
+38233,Tr18_FI_46680,Lampi 222,69.4471,29.1036,222.0,Europe,Finland,NoNord,Trends
+38378,Tr18_SE_1085,Rattsjön,60.357805,12.905762,195.0,Europe,Sweden,SoNord,Trends
+38401,Tr18_SE_1086,Tvällen,60.022695,12.627785,206.0,Europe,Sweden,SoNord,Trends
+38410,Tr18_SE_1087,Ämten,59.948684,12.598349,274.0,Europe,Sweden,SoNord,Trends
+38372,Tr18_SE_1088,Mosjön,59.23341352,17.53449363,111.0,Europe,Sweden,SoNord,Trends
+38350,Tr18_SE_1089,Farstusjön,59.20902846,18.20533288,134.0,Europe,Sweden,SoNord,Trends
+38385,Tr18_SE_109,Skärgölen,61.92567441,14.89384317,72.0,Europe,Sweden,SoNord,Trends
+38408,Tr18_SE_1091,Vågsjön,56.35215696,13.70065275,189.0,Europe,Sweden,SoNord,Trends
+38340,Tr18_SE_1092,Billingen,59.526479,12.786578,75.0,Europe,Sweden,SoNord,Trends
+38342,Tr18_SE_1093,Botungen,59.344243,12.725932,99.0,Europe,Sweden,SoNord,Trends
+38382,Tr18_SE_1094,Sandsjön,59.357016,12.8627,86.0,Europe,Sweden,SoNord,Trends
+38407,Tr18_SE_1096,Vrången,56.34417197,15.17227337,281.0,Europe,Sweden,SoNord,Trends
+38375,Tr18_SE_1097,Mögesjön,59.5803,11.844353,119.0,Europe,Sweden,SoNord,Trends
+38386,Tr18_SE_1098,Skårdalsvattnet,59.335294,11.939094,127.0,Europe,Sweden,SoNord,Trends
+38341,Tr18_SE_1099,Bodasjön,59.251339,12.213891,112.0,Europe,Sweden,SoNord,Trends
+38357,Tr18_SE_110,Grissjön,60.64380681,13.62646591,139.0,Europe,Sweden,SoNord,Trends
+38358,Tr18_SE_1102,Gröningen,59.07905669,17.88397571,92.0,Europe,Sweden,SoNord,Trends
+38412,Tr18_SE_1103,Ölsjön,59.94742758,12.59835361,173.0,Europe,Sweden,SoNord,Trends
+38389,Tr18_SE_1104,St. Gloppsjön,57.42765686,12.26316089,198.0,Europe,Sweden,SoNord,Trends
+38396,Tr18_SE_1109,Storsjön,59.08982174,17.40285875,63.0,Europe,Sweden,SoNord,Trends
+38337,Tr18_SE_111,Alsjön,59.8637148,18.81220464,113.0,Europe,Sweden,SoNord,Trends
+38376,Tr18_SE_1111,Navarn,59.15587035,17.59823738,280.0,Europe,Sweden,SoNord,Trends
+38367,Tr18_SE_1113,Liasjön,56.98319011,15.45752092,115.0,Europe,Sweden,SoNord,Trends
+38353,Tr18_SE_1115,Fåglasjön,55.5218526,13.31191944,107.0,Europe,Sweden,SoNord,Trends
+38381,Tr18_SE_1118,S. Bergsjön,59.63031255,13.03466084,246.0,Europe,Sweden,SoNord,Trends
+38356,Tr18_SE_1119,Gransjön,59.8046243,18.30540749,241.0,Europe,Sweden,SoNord,Trends
+38361,Tr18_SE_113,Humsjön,56.87678343,14.92857604,130.0,Europe,Sweden,SoNord,Trends
+38352,Tr18_SE_118,Fräcksjön,57.94664739,16.09632721,69.0,Europe,Sweden,SoNord,Trends+Core
+38403,Tr18_SE_120,Tängersjö,62.24233026,15.67327128,116.0,Europe,Sweden,SoNord,Trends
+38351,Tr18_SE_121,Fjärasjö,59.80436639,17.90399753,236.0,Europe,Sweden,SoNord,Trends
+38366,Tr18_SE_123,Jutsajaure,60.16089381,15.73345512,421.0,Europe,Sweden,SoNord,Trends
+38402,Tr18_SE_126,Tväringen,56.3236984,15.35817087,307.0,Europe,Sweden,SoNord,Trends+Core
+38371,Tr18_SE_129,Långsjön,59.10045779,16.80648325,239.0,Europe,Sweden,SoNord,Trends
+38359,Tr18_SE_130,Hagasjön,58.22475819,11.77069787,167.0,Europe,Sweden,SoNord,Trends
+38234,Tr18_FI_46679,Lampi 3/88,69.4486,29.1382,220.0,Europe,Finland,NoNord,Trends
+38274,Tr18_NO_2030-624,Ulekristasjavri,69.53188431,29.44756866,242.0,Europe,Norway,NoNord,Trends
+38308,Tr18_NO_2030-603,Otervatnet,69.55032954,30.78036001,293.0,Europe,Norway,NoNord,Trends
+38405,Tr18_SE_134,V. Rännöbodsjön,57.46478276,16.03284418,50.0,Europe,Sweden,SoNord,Trends
+38295,Tr18_NO_2030-501,Barjasjavri,69.56399078,29.80593867,150.0,Europe,Norway,NoNord,Trends
+38316,Tr18_NO_DALELV,Dalelv,69.68473808,30.38615414,10.0,Europe,Norway,NoNord,Trends+Core
+38414,Tr18_SE_1946,Örvattnet,59.1136742,17.35350871,279.0,Europe,Sweden,SoNord,Trends
+38368,Tr18_SE_1947,Lillesjö,57.0906813,14.5295864,88.0,Europe,Sweden,SoNord,Trends
+38364,Tr18_SE_1948,Härsvatten,56.59588268,15.7280786,126.0,Europe,Sweden,SoNord,Trends+Core
+38387,Tr18_SE_54,Spjutsjön,57.77797935,15.58217068,182.0,Europe,Sweden,SoNord,Trends
+38256,Tr18_NO_2030-607,St.Valvatnet,69.69497549,30.65621148,157.0,Europe,Norway,NoNord,Trends
+38374,Tr18_SE_56,Mäsen,59.58489727,14.52040038,106.0,Europe,Sweden,SoNord,Trends
+38362,Tr18_SE_57,Hällsjön,57.05018238,15.25734733,168.0,Europe,Sweden,SoNord,Trends
+38354,Tr18_SE_58,Gipsjön,57.607786,15.24930348,381.0,Europe,Sweden,SoNord,Trends
+38415,Tr18_SE_59,Översjön,59.62676203,15.43315421,220.0,Europe,Sweden,SoNord,Trends
+38379,Tr18_SE_60,Remmarsjön,58.14686071,12.18119333,234.0,Europe,Sweden,SoNord,Trends+Core
+38363,Tr18_SE_61,Hällvattnet,57.86752014,18.84090468,216.0,Europe,Sweden,SoNord,Trends
+38383,Tr18_SE_62,Siggeforasjön,56.76426363,13.42900177,74.0,Europe,Sweden,SoNord,Trends
+38346,Tr18_SE_63,Bäen,58.85488562,17.37019324,97.0,Europe,Sweden,SoNord,Trends
+38406,Tr18_SE_65,Valasjön,59.55577202,18.36602511,101.0,Europe,Sweden,SoNord,Trends
+38399,Tr18_SE_68,Sännen,56.8491986,13.23621819,62.0,Europe,Sweden,SoNord,Trends
+38255,Tr18_NO_2030-625,Holmvatnet,69.70644236,29.72108939,146.0,Europe,Norway,NoNord,Trends
+38413,Tr18_SE_70,Örsjön,58.64344236,13.93407358,88.0,Europe,Sweden,SoNord,Trends
+38388,Tr18_SE_73,St Skärsjön,56.20486581,14.5399975,55.0,Europe,Sweden,SoNord,Trends
+38264,Tr18_NO_2030-612,Litle Djupvatnet,69.70924518,30.60151424,211.0,Europe,Norway,NoNord,Trends
+38276,Tr18_NO_2030-614,Langvatnet,69.72310681,30.18736703,90.0,Europe,Norway,NoNord,Trends
+38416,Tr18_SE_80,Överudssjön,56.28503612,14.68510592,56.0,Europe,Sweden,SoNord,Trends
+38392,Tr18_SE_82,Stora Envättern,58.81372313,11.61245895,64.0,Europe,Sweden,SoNord,Trends+Core
+38393,Tr18_SE_85,Stora Skärsjön,60.30301258,12.86418267,206.0,Europe,Sweden,SoNord,Trends+Core
+38218,Tr18_FI_39046,Vuoskojärvi,69.7426,26.9499,143.0,Europe,Finland,NoNord,Trends
+38253,Tr18_NO_2030-504,Råtjern,69.86885447,29.18460352,264.0,Europe,Norway,NoNord,Trends
+38252,Tr18_NO_2030-503,Skaidejavri,69.94237949,29.11387821,322.0,Europe,Norway,NoNord,Trends
+38347,Tr18_SE_89,Dagarn,59.30110712,12.33992339,135.0,Europe,Sweden,SoNord,Trends
+38417,Tr18_SE_90,Övre Skärsjön,59.19140891,18.27813913,223.0,Europe,Sweden,SoNord,Trends+Core
+38360,Tr18_SE_91,Hinnasjön,57.33593663,13.71143091,171.0,Europe,Sweden,SoNord,Trends
+38254,Tr18_NO_2002-501,Oksevatn,70.34728636,30.88422113,143.0,Europe,Norway,NoNord,Trends
+38380,Tr18_SE_94,Rotehogstjärnen,58.01890798,12.03038985,122.0,Europe,Sweden,SoNord,Trends+Core
+38365,Tr18_SE_95,Hökesjön,58.61992561,14.47582461,149.0,Europe,Sweden,SoNord,Trends
+38336,Tr18_SE_96,Allgjuttern,57.94794654,16.09632721,131.0,Europe,Sweden,SoNord,Trends+Core
+38343,Tr18_SE_98,Brunnsjön,56.59822059,15.7280786,99.0,Europe,Sweden,SoNord,Trends+Core
+38400,Tr18_SE_99,Tomeshultagölen,58.75605132,14.22231469,179.0,Europe,Sweden,SoNord,Trends
+23472,CH03,Lago di Tomè,46.364,8.691,1692.0,Europe,Switzerland,Alps,Core
+23474,CH05,Laghetto Inferiore,46.477,8.594,2074.0,Europe,Switzerland,Alps,Core
+23475,CH06,Laghetto Superiore,46.477,8.587,2128.0,Europe,Switzerland,Alps,Core
+23478,CH09,Lago Nero,46.449,8.541,2387.0,Europe,Switzerland,Alps,Core
+23488,CH19,Lago d'Alzasca,46.267,8.585,1855.0,Europe,Switzerland,Alps,Core
+23489,CH20,Lago del Starlaresc da Sgiof,46.276,8.777,1875.0,Europe,Switzerland,Alps,Core
+38426,Tr18_UK_02,Allt a'Mharcaidh,57.118,-3.85,325.0,Europe,United Kingdom,UK-IE-NL,Trends
+38433,Tr18_UK_03,Allt na Coire nan Con,56.758,-5.612,10.0,Europe,United Kingdom,UK-IE-NL,Trends
+38434,Tr18_UK_04,Lochnagar,56.755167,-3.224667,785.0,Europe,United Kingdom,UK-IE-NL,Trends+Core
+38435,Tr18_UK_05,Loch Chon,56.228241,-4.509879,100.0,Europe,United Kingdom,UK-IE-NL,Trends
+38436,Tr18_UK_06,Loch Tinker,56.216326,-4.338136,420.0,Europe,United Kingdom,UK-IE-NL,Trends
+38437,Tr18_UK_07,Round Loch of Glenhead,55.0895,-4.424167,295.0,Europe,United Kingdom,UK-IE-NL,Trends+Core
+38438,Tr18_UK_08,Loch Grannoch,55.003444,-4.265469,210.0,Europe,United Kingdom,UK-IE-NL,Trends
+38439,Tr18_UK_09,Dargall Lane,55.078,-4.431,260.0,Europe,United Kingdom,UK-IE-NL,Trends
+38418,Tr18_UK_10,Scoat Tarn,54.475667,-3.292167,602.0,Europe,United Kingdom,UK-IE-NL,Trends+Core
+38419,Tr18_UK_11,Burnmoor Tarn,54.48402,-3.091238,252.0,Europe,United Kingdom,UK-IE-NL,Trends
+38420,Tr18_UK_12,River Etherow,53.493,-1.827,280.0,Europe,United Kingdom,UK-IE-NL,Trends
+38421,Tr18_UK_13,Old Lodge,51.045,0.076,94.0,Europe,United Kingdom,UK-IE-NL,Trends
+38422,Tr18_UK_15,Llyn Llagi,53.008833,-4.0085,380.0,Europe,United Kingdom,UK-IE-NL,Trends+Core
+38423,Tr18_UK_16,Llyn Cwm Mynach,52.795537,-3.962134,285.0,Europe,United Kingdom,UK-IE-NL,Trends
+38424,Tr18_UK_17,Afon Hafren,52.457,-3.48,355.0,Europe,United Kingdom,UK-IE-NL,Trends
+38425,Tr18_UK_19,Beaghs Burn,55.101,-6.162,150.0,Europe,United Kingdom,UK-IE-NL,Trends
+38427,Tr18_UK_20,Bencrom River,54.153,-6.004,140.0,Europe,United Kingdom,UK-IE-NL,Trends
+38428,Tr18_UK_21,Blue Lough,54.154167,-5.9675,340.0,Europe,United Kingdom,UK-IE-NL,Trends+Core
+38429,Tr18_UK_22,Coneyglen Burn,54.74,-7.006,230.0,Europe,United Kingdom,UK-IE-NL,Trends
+38430,Tr18_UK_23,Narrator Brook,50.505,-4.021,225.0,Europe,United Kingdom,UK-IE-NL,Trends
+38431,Tr18_UK_24,Afon Gwy,52.379,-3.685,440.0,Europe,United Kingdom,UK-IE-NL,Trends
+38467,Tr18_US_01364959,"Rondout Creek, Catskills",41.9367,-74.3764,503.0,North America,United States,AdsCsk,Trends+Core
+38468,Tr18_US_0143400680,"East Branch Neversink River, Catskills",41.9869,-74.5031,652.0,North America,United States,AdsCsk,Trends+Core
+38469,Tr18_US_01434021,"West Branch Neversink River at Winnisook, Catskills",41.9725,-74.4483,816.0,North America,United States,AdsCsk,Trends+Core
+38470,Tr18_US_01434025,"Biscuit Brook, Catskills",42.0111,-74.4147,634.0,North America,United States,AdsCsk,Trends+Core
+38441,Tr18_US_020059O,"Big Hope Pond, Adirondacks",44.5119,-74.125,522.0,North America,United States,AdsCsk,Trends+Core
+38442,Tr18_US_020138O,"East Copperas Pond, Adirondacks",44.3119,-74.3722,479.0,North America,United States,AdsCsk,Trends+Core
+38443,Tr18_US_020188E,"Sunday Pond, Adirondacks",44.3447,-74.3005,485.0,North America,United States,AdsCsk,Trends+Core
+38444,Tr18_US_020197E,"Sochia Pond, Adirondacks",44.3522,-74.2947,500.0,North America,United States,AdsCsk,Trends+Core
+38445,Tr18_US_020265O,"Marcy Dam Pond, Adirondacks",44.1589,-73.953,715.0,North America,United States,AdsCsk,Trends+Core
+38446,Tr18_US_030171E,"Grass Pond, Adirondacks",44.6572,-74.4958,546.0,North America,United States,AdsCsk,Trends+Core
+38447,Tr18_US_040186O,"Loon Hollow Pond, Adirondacks",43.9614,-75.0452,607.0,North America,United States,AdsCsk,Trends+Core
+38448,Tr18_US_040210O,"Willys Lake, Adirondacks",43.9722,-74.9555,630.0,North America,United States,AdsCsk,Trends+Core
+38449,Tr18_US_040576O,"Woods Lake, Adirondacks",43.8705,-74.9522,607.0,North America,United States,AdsCsk,Trends+Core
+38450,Tr18_US_040704O,"Middle Settlement Lake, Adirondacks",43.6839,-75.1,526.0,North America,United States,AdsCsk,Trends+Core
+38452,Tr18_US_040707O,"Middle Branch Lake, Adirondacks",43.6978,-75.1022,494.0,North America,United States,AdsCsk,Trends+Core
+38453,Tr18_US_040826O,"Limekiln Lake, Adirondacks",43.7133,-74.813,576.0,North America,United States,AdsCsk,Trends+Core
+38454,Tr18_US_040850O,"Squaw Lake, Adirondacks",43.6361,-74.7388,645.0,North America,United States,AdsCsk,Trends+Core
+38455,Tr18_US_040852O,"Indian Lake, Adirondacks",43.6233,-74.7622,654.0,North America,United States,AdsCsk,Trends+Core
+38456,Tr18_US_040874O,"Brook Trout Lake, Adirondacks",43.6,-74.6625,722.0,North America,United States,AdsCsk,Trends+Core
+38457,Tr18_US_040887O,"Lost Pond, Adirondacks",43.6466,-74.5583,584.0,North America,United States,AdsCsk,Trends+Core
+38459,Tr18_US_041007O,"North Lake, Adirondacks",43.5228,-74.948,555.0,North America,United States,AdsCsk,Trends+Core
+38460,Tr18_US_050649O,"Long Pond, Adirondacks",43.8375,-74.4805,570.0,North America,United States,AdsCsk,Trends+Core
+38461,Tr18_US_050669E,"Carry Pond, Adirondacks",43.6816,-74.4891,649.0,North America,United States,AdsCsk,Trends+Core
+38462,Tr18_US_050706O,"Lake Colden, Adirondacks",44.1191,-73.983,842.0,North America,United States,AdsCsk,Trends+Core
+38463,Tr18_US_050707O,"Avalanche Lake, Adirondacks",44.1308,-73.9703,873.0,North America,United States,AdsCsk,Trends+Core
+38464,Tr18_US_060182O,"Little Simon Pond, Adirondacks",44.1617,-74.4433,545.0,North America,United States,AdsCsk,Trends+Core
+38465,Tr18_US_060315AO,"Raquette Lake Reservoir, Adirondacks",43.795,-74.6514,570.0,North America,United States,AdsCsk,Trends+Core
+38466,Tr18_US_070859O,"G Lake, Adirondacks",43.418,-74.6361,619.0,North America,United States,AdsCsk,Trends+Core
+38471,Tr18_US_1A1-017S,"Constable Pond Stream, Adirondacks",43.8273,-74.8241,582.0,North America,United States,AdsCsk,Trends+Core
+38472,Tr18_US_1A1-029O,"Middle Pond, Adirondacks",44.3369,-74.3719,484.0,North America,United States,AdsCsk,Trends+Core
+38473,Tr18_US_1A1-052O,"Arbutus Lake, Adirondacks",43.9875,-74.2417,513.0,North America,United States,AdsCsk,Trends+Core
+38474,Tr18_US_1A1-059O,"Sagamore Lake, Adirondacks",43.7658,-74.6286,580.0,North America,United States,AdsCsk,Trends+Core
+38475,Tr18_US_1A1-071S,"Black Pond Stream, Adirondacks",44.432,-74.2984,497.0,North America,United States,AdsCsk,Trends+Core
+38491,Tr18_US_1A1-078S,"Otter Lake Stream, Adirondacks",43.182,-74.5022,502.0,North America,United States,AdsCsk,Trends+Core
+38476,Tr18_US_1A1-087S,"Windfall Pond Stream, Adirondacks",43.7977,-74.8502,595.0,North America,United States,AdsCsk,Trends+Core
+38477,Tr18_US_1A1-089O,"Queer Lake, Adirondacks",43.8136,-74.8069,597.0,North America,United States,AdsCsk,Trends+Core
+38478,Tr18_US_1A1-102O,"Heart Lake, Adirondacks",44.1822,-73.9694,659.0,North America,United States,AdsCsk,Trends+Core
+38479,Tr18_US_1A1-103O,"Big Moose Lake, Adirondacks",43.8292,-74.85,556.0,North America,United States,AdsCsk,Trends+Core
+38480,Tr18_US_1A1-105S,"Cascade Lake Stream, Adirondacks",43.7835,-74.8365,553.0,North America,United States,AdsCsk,Trends+Core
+38481,Tr18_US_1A1-106O,"Dart Lake, Adirondacks",43.7972,-74.8583,535.0,North America,United States,AdsCsk,Trends+Core
+38482,Tr18_US_1A1-107E,"Little Echo Pond, Adirondacks",44.3055,-74.3975,482.0,North America,United States,AdsCsk,Trends+Core
+38483,Tr18_US_1A1-109O,"Moss Lake, Adirondacks",43.7861,-74.85,535.0,North America,United States,AdsCsk,Trends+Core
+38484,Tr18_US_1A1-110O,"Lake Rondaxe, Adirondacks",43.7639,-74.9055,524.0,North America,United States,AdsCsk,Trends+Core
+38485,Tr18_US_1A1-111S,"Squash Pond Stream, Adirondacks",43.8229,-74.902586,649.0,North America,United States,AdsCsk,Trends+Core
+38486,Tr18_US_1A1-112S,"West Pond Stream, Adirondacks",43.8163,-74.88702,579.0,North America,United States,AdsCsk,Trends+Core
+38487,Tr18_US_1A1-113S,"Bubb Lake Stream, Adirondacks",43.78256,-74.835,553.0,North America,United States,AdsCsk,Trends+Core
+38488,Tr18_US_1A2-028O,"Owen Pond, Adirondacks",44.323,-73.9033,515.0,North America,United States,AdsCsk,Trends+Core
+38489,Tr18_US_1A2-066O,"Jockeybush Lake, Adirondacks",43.3022,-74.5858,599.0,North America,United States,AdsCsk,Trends+Core
+38490,Tr18_US_1A2-077O,"Clear Pond, Adirondacks",44.0,-73.8222,582.0,North America,United States,AdsCsk,Trends+Core
+38492,Tr18_US_1A3-001O,"Nate Pond, Adirondacks",43.8592,-74.0933,614.0,North America,United States,AdsCsk,Trends+Core
+38451,Tr18_US_1A3-048O,"Grass Pond, Adirondacks",43.6903,-75.0649,384.0,North America,United States,AdsCsk,Trends+Core
+38458,Tr18_US_1A3-065O,"South Lake, Adirondacks",43.5097,-74.8769,615.0,North America,United States,AdsCsk,Trends+Core
+38493,Tr18_US_1C1-078E,"Bean Pond, Maine",45.1272,-69.9781,381.0,North America,United States,QuMaVt,Trends+Core
+38494,Tr18_US_1C1-089,"Bourn, Vermont",43.1055,-73.0028,778.0,North America,United States,QuMaVt,Trends+Core
+38495,Tr18_US_1C1-090,"Grout, Vermont",43.0455,-72.9458,681.0,North America,United States,QuMaVt,Trends+Core
+38496,Tr18_US_1C1-093,"Little Woodford, Vermont",42.925,-73.0653,793.0,North America,United States,QuMaVt,Trends+Core
+38497,Tr18_US_1C1-097,"Sunset, Vermont",42.9194,-72.6833,421.0,North America,United States,QuMaVt,Trends+Core
+38498,Tr18_US_1C1-100,"Big Mud, Vermont",43.3139,-72.9305,789.0,North America,United States,QuMaVt,Trends+Core
+38499,Tr18_US_1C1-101,"Branch, Vermont",43.0811,-73.0186,802.0,North America,United States,QuMaVt,Trends+Core
+38500,Tr18_US_1C1-110,"Haystack, Vermont",42.9167,-72.9167,910.0,North America,United States,QuMaVt,Trends+Core
+38501,Tr18_US_1C1-112,"Howe, Vermont",42.7856,-72.9875,587.0,North America,United States,QuMaVt,Trends+Core
+38502,Tr18_US_1E1-060E,"Bracey Pond, Maine",44.9625,-68.1222,117.0,North America,United States,QuMaVt,Trends+Core
+38503,Tr18_US_1E1-131E,"Anderson Pond, Maine",44.6475,-68.0592,66.0,North America,United States,QuMaVt,Trends+Core
+38504,Tr18_US_1E1-132E,"Little Long Pond, Maine",44.6375,-68.0781,70.0,North America,United States,QuMaVt,Trends+Core
+38505,Tr18_US_1E1-133E,"Tilden Pond, Maine",44.6347,-68.0722,70.0,North America,United States,QuMaVt,Trends+Core
+38506,Tr18_US_1E1-134E,"Mud Pond, Maine",44.633,-68.0908,104.0,North America,United States,QuMaVt,Trends+Core
+38507,Tr18_US_1E1-135E,"Salmon Pond, Maine",44.6314,-68.0861,88.0,North America,United States,QuMaVt,Trends+Core
+38508,Tr18_US_1E2-060E,"Wiley Pond, Maine",46.0011,-68.5406,235.0,North America,United States,QuMaVt,Trends+Core
+38509,Tr18_US_ME-0441E,"Second Pond, Maine",44.7028,-68.5833,126.0,North America,United States,QuMaVt,Trends+Core
+38510,Tr18_US_ME-2068E,"Abol Pond, Maine",45.8378,-68.9322,181.0,North America,United States,QuMaVt,Trends+Core
+38511,Tr18_US_ME-4474E,"Duck Pond, Maine",44.7861,-68.1819,82.0,North America,United States,QuMaVt,Trends+Core
+38512,Tr18_US_ME-4575E,"Jellison Hl Pd, Maine",44.8119,-68.4297,123.0,North America,United States,QuMaVt,Trends+Core
+38513,Tr18_US_ME-4778E,"Crystal Pond, Maine",45.0308,-68.1931,113.0,North America,United States,QuMaVt,Trends+Core
+38514,Tr18_US_ME-9997O,"Tunk Lake, Maine",44.5986,-68.0592,63.0,North America,United States,QuMaVt,Trends+Core
+38515,Tr18_US_ME-9999E,"Partridge Pond, Maine",44.8605,-68.4037,172.0,North America,United States,QuMaVt,Trends+Core
+23621,US102,"Forester, Vermont",43.0817,-72.868,533.0,North America,United States,QuMaVt,Core
+23622,US103,"Paine Run, Virginia",38.1984,-78.7932,424.0,North America,United States,BRM,Core
+23623,US104,"Piney River, Virginia",38.703,-78.2687,360.0,North America,United States,BRM,Core
+23624,US105,"Staunton River, Virginia",38.4449,-78.3717,308.0,North America,United States,BRM,Core
+37765,US127,"Barnes Lake, Adirondacks",43.5667,-75.2278,393.0,North America,United States,AdsCsk,Core
+23662,US27,"Little Hope Pond, Adirondacks",44.5158,-74.1252,521.0,North America,United States,AdsCsk,Core
+23669,US34,"Little Clear Pond, Adirondacks",44.6606,-74.498,384.0,North America,United States,AdsCsk,Core
+23683,US48,"Willis Lake, Adirondacks",43.3714,-74.2463,397.0,North America,United States,AdsCsk,Core
+23719,US84,"Benner Run, Pennsylvania",40.9344,-78.0228,582.0,North America,United States,Apps,Core
+23720,US85,"Linn Run, Pennsylvania",40.1444,-79.2103,573.0,North America,United States,Apps,Core
+23721,US86,"Roberts Run, Pennsylvania",41.17,-78.4061,509.0,North America,United States,Apps,Core
+23722,US87,"Stone Run, Pennsylvania",41.0978,-78.4467,494.0,North America,United States,Apps,Core
+23723,US88,"Baldwin Creek, Pennsylvania",40.3514,-79.0511,439.0,North America,United States,Apps,Core
+23726,US91,"Hardwood, Vermont",44.468,-72.5,478.0,North America,United States,QuMaVt,Core
+23728,US93,"Stamford, Vermont",42.8222,-73.0653,753.0,North America,United States,QuMaVt,Core
+23733,US98,"Beaver Pond, Vermont",45.0056,-71.9417,468.0,North America,United States,QuMaVt,Core

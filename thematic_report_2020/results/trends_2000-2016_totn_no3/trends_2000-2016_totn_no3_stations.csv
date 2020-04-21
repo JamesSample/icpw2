@@ -99,6 +99,8 @@ station_id,station_code,station_name,latitude,longitude,altitude,continent,count
 38223,Tr18_FI_9517,Iso-Hanhijärvi,61.7991,24.2811,152.0,Europe,Finland,SoNord,Trends
 38224,Tr18_FI_9518,Siikajärvi,61.8102,24.2072,186.0,Europe,Finland,SoNord,Trends
 23516,DE12,"Harz, Lange Bramke",51.855,10.421,,Europe,Germany,WCE,Core
+23534,DE30,"Erzgebirge, Wilde Weisseritz",50.722,13.706167,695.0,Europe,Germany,ECE,Core
+23535,DE31,"Erzgebirge, Wolfsbach",50.319,12.136833,565.0,Europe,Germany,ECE,Core
 23562,IT01,"Piemonte, Lake Paione Inferiore",46.169,8.187667,2002.0,Europe,Italy,Alps,Core
 23563,IT02,"Piemonte, Lake di Mergozzo",45.9535,8.457833,194.0,Europe,Italy,Alps,Core
 23564,IT03,"Piemonte, Lake Paione Superiore",46.173167,8.187667,2269.0,Europe,Italy,Alps,Core

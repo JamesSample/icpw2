@@ -6,7 +6,7 @@ The workflow is documented in the links below,
 
  1. **[Data availability matrices](https://nbviewer.org/github/JamesSample/icpw2/blob/master/thematic_report_2020/thematic_report_2020_nitrogen_part1.ipynb)**
  
- 2. **[Exploratory analysis and site selection](https://nbviewer.org/github/JamesSample/icpw2/blob/master/thematic_report_2020/thematic_report_2020_nitrogen_part2.ipynb)**
+ 2. **[Exploratory analysis and site selection](https://nbviewer.org/github/JamesSample/icpw2/blob/master/thematic_report_2020/thematic_report_2020_nitrogen_part2.ipynb)**. Including testing different methods for estimating TON
  
  3. **[Annual trends](https://nbviewer.org/github/JamesSample/icpw2/blob/master/thematic_report_2020/thematic_report_2020_nitrogen_part3.ipynb)**
  

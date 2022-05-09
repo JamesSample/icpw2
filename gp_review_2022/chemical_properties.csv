@@ -1,0 +1,10 @@
+par;valency;molar_mass;cl_ratio
+Cl_mg/l;1;35.453;1
+Ca_mg/l;2;40.078;0.037
+Mg_mg/l;2;24.305;0.196
+Na_mg/l;1;22.99;0.859
+K_mg/l;1;39.1;0.018
+SO4_mg/l;2;96.06;0.103
+NO3-N_µg/l;1;14.01;N/A
+NH4-N_µg/l;1;14.01;N/A
+Al/L_µg/l;2;26.98;N/A

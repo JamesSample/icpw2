@@ -2,6 +2,32 @@ import numpy as np
 import pandas as pd
 from sqlalchemy import types
 
+SI_PREFIX_DICT = {
+    "m": 1000.0,
+    "µ": 1.0,
+}
+
+VALENCY_DICT = {
+    "Ca": 2.0,
+    "Mg": 2.0,
+    "Na": 1.0,
+    "K": 1.0,
+    "NH4-N": 1.0,
+    "SO4": 2.0,
+    "Cl": 1.0,
+    "NO3-N": 1.0,
+}
+MOLAR_MASS_DICT = {
+    "Ca": 40.08,
+    "Mg": 24.312,
+    "Na": 22.9898,
+    "K": 39.102,
+    "NH4-N": 14.0,
+    "SO4": 96.0616,
+    "Cl": 35.453,
+    "NO3-N": 14.0,
+}
+
 
 def read_data_template(file_path):
     """Read the ICPW template. An example of the template is here:
@@ -338,3 +364,58 @@ def process_template(xl_path, eng, dups="mean", dry_run=True):
     df = upload_chemistry(df, eng, dry_run=dry_run)
 
     return (ws_df, df)
+
+
+def convert_to_microequivalents(df, col):
+    """Basic conversion from mass/l to microequivalents/l.
+
+    Args
+        df:  Dataframe
+        col: Str. Column in 'df' named 'par_unit'
+
+    Returns
+        A new column is added to 'df' with values in ueq/l.
+    """
+    if col in df.columns:
+        # Separate par and unit
+        parts = col.split("_")
+        par = "_".join(parts[:-1])
+        unit = parts[-1]
+
+        # Determine unit factor
+        if unit[0] not in SI_PREFIX_DICT.keys():
+            raise ValueError("Unit factor could not be identified.")
+        else:
+            factor = SI_PREFIX_DICT[unit[0]]
+
+        df[f"{par}_µeq/l"] = df[col] * VALENCY_DICT[par] * factor / MOLAR_MASS_DICT[par]
+
+    return df
+
+
+def calculate_anc(df, anc_oaa=False):
+    """Calculate ANC (and ANCoaa, if desired).
+
+    Args
+        df:      Dataframe
+        anc_oaa: Bool. Default False. Whether to calculate ANCoaa in addition
+                 to ANC
+
+    Returns
+        New column(s) added to 'df'.
+    """
+    df["ANC_µeq/l"] = (
+        df["Ca_µeq/l"]
+        + df["Mg_µeq/l"]
+        + df["Na_µeq/l"]
+        + df["K_µeq/l"]
+        + df["NH4-N_µeq/l"]
+        - df["Cl_µeq/l"]
+        - df["SO4_µeq/l"]
+        - df["NO3-N_µeq/l"]
+    )
+
+    if anc_oaa:
+        df["ANCoaa_µeq/l"] = df["ANC_µeq/l"] - 3.4 * df["TOC_mg C/l"]
+
+    return df

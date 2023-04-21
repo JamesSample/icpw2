@@ -252,6 +252,7 @@ def upload_samples(df, eng, dry_run=True):
     ws_df["depth2"] = 0
 
     if not dry_run:
+        ws_df.rename({"date": "sample_date"}, axis="columns", inplace=True)
         ws_df.to_sql(
             name="water_samples",
             schema="resa2",
@@ -324,6 +325,7 @@ def upload_chemistry(df, eng, dry_run=True):
     }
 
     if not dry_run:
+        df.rename({"water_sample_id": "sample_id"}, axis="columns", inplace=True)
         df.to_sql(
             name="water_chemistry_values2",
             schema="resa2",

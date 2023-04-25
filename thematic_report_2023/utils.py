@@ -431,20 +431,22 @@ def calculate_anc(df, anc_oaa=False):
     return df
 
 
-def calculate_organic_anions(df, pK1=3.04, pK2=4.42, pK3=6.70, site_density=13.5):
+def calculate_organic_anions(df, site_density, pK1=3.04, pK2=4.42, pK3=6.70):
     """Estimate organic anions from pH and TOC using the model of Hruška et al.
     (2003) https://doi.org/10.1021/es0201552.
 
     Args
         df:           Dataframe. Must conatin columns named 'pH_' and 'TOC_mg C/l'
+        site_density: Float. The number of acidic functional groups
+                      per milligram of organic carbon. Often assumed to be 10.2,
+                      but may vary considerably. See
+                      https://github.com/JamesSample/icpw2/issues/3
         pK1:          Float. Deafult 3.04. Dissociation Constant (pKa) for a
                       triprotic model of organic acid dissociation
         pK2:          Float. Deafult 4.42. Dissociation Constant (pKa) for a
                       triprotic model of organic acid dissociation
         pK3:          Float. Deafult 6.70. Dissociation Constant (pKa) for a
                       triprotic model of organic acid dissociation
-        site_density: Float. Default 13.5. The number of acidic functional groups
-                      per milligram of organic carbon
 
     Returns
         Dataframe. Column 'OrgAnions_µeq/l' is added to 'df'.

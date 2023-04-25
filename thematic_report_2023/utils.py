@@ -396,7 +396,9 @@ def convert_to_microequivalents(df, col):
 
 
 def calculate_anc(df, anc_oaa=False):
-    """Calculate ANC (and ANCoaa, if desired).
+    """Calculate ANC (and ANCoaa, if desired). NaN values for NH4 and K are
+    filled with zeros, but all other parameters must be present in df for the
+    calculation to run.
 
     Args
         df:      Dataframe
@@ -406,6 +408,12 @@ def calculate_anc(df, anc_oaa=False):
     Returns
         New column(s) added to 'df'.
     """
+    for par in ["NH4-N_µeq/l", "K_µeq/l"]:
+        if par in df.columns:
+            df[par].fillna(0, inplace=True)
+        else:
+            df[par] = 0
+
     df["ANC_µeq/l"] = (
         df["Ca_µeq/l"]
         + df["Mg_µeq/l"]
@@ -419,5 +427,59 @@ def calculate_anc(df, anc_oaa=False):
 
     if anc_oaa:
         df["ANCoaa_µeq/l"] = df["ANC_µeq/l"] - 3.4 * df["TOC_mg C/l"]
+
+    return df
+
+
+def calculate_organic_anions(df, pK1=3.04, pK2=4.42, pK3=6.70, site_density=13.5):
+    """Estimate organic anions from pH and TOC using the model of Hruška et al.
+    (2003) https://doi.org/10.1021/es0201552.
+
+    Args
+        df:           Dataframe. Must conatin columns named 'pH_' and 'TOC_mg C/l'
+        pK1:          Float. Deafult 3.04. Dissociation Constant (pKa) for a
+                      triprotic model of organic acid dissociation
+        pK2:          Float. Deafult 4.42. Dissociation Constant (pKa) for a
+                      triprotic model of organic acid dissociation
+        pK3:          Float. Deafult 6.70. Dissociation Constant (pKa) for a
+                      triprotic model of organic acid dissociation
+        site_density: Float. Default 13.5. The number of acidic functional groups
+                      per milligram of organic carbon
+
+    Returns
+        Dataframe. Column 'OrgAnions_µeq/l' is added to 'df'.
+    """
+    K1, K2, K3 = 10**-pK1, 10**-pK2, 10**-pK3
+
+    df["H+"] = 10 ** -df["pH_"]
+    df["H3A"] = df["H+"] ** 3 / (
+        df["H+"] ** 3 + K1 * df["H+"] ** 2 + K1 * K2 * df["H+"] + K1 * K2 * K3
+    )
+    df["H2A-"] = K1 * df["H3A"] / df["H+"]
+    df["HA2-"] = K1 * K2 * df["H3A"] / (df["H+"] ** 2)
+    df["A3-"] = K1 * K2 * K3 * df["H3A"] / (df["H+"] ** 3)
+    df["Hruska_Factor"] = (
+        site_density * (df["H2A-"] + 2 * df["HA2-"] + 3 * df["A3-"]) / 3
+    )
+    df["OrgAnions_µeq/l"] = df["Hruska_Factor"] * df["TOC_mg C/l"]
+
+    df.drop(
+        ["H+", "H3A", "H2A-", "HA2-", "A3-", "Hruska_Factor"],
+        axis="columns",
+        inplace=True,
+    )
+
+    return df
+
+
+def calculate_bicarbonate(df):
+    """Calculate bicarbonate using the ion balance method:
+
+           [HCO3] = ANC - OrgAnions + H.
+
+    If the [HCO3] < 0 it is set to 0.
+    """
+    df["HCO3_µeq/l"] = df["ANC_µeq/l"] + df["H_µeq/l"] - df["OrgAnions_µeq/l"]
+    df["HCO3_µeq/l"] = np.where(df["HCO3_µeq/l"] < 0, 0, df["HCO3_µeq/l"])
 
     return df

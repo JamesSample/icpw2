@@ -410,20 +410,22 @@ def calculate_anc(df, anc_oaa=False):
     """
     for par in ["NH4-N_µeq/l", "K_µeq/l"]:
         if par in df.columns:
-            df[par].fillna(0, inplace=True)
+            df[par + "_temp"] = df[par].fillna(0)
         else:
-            df[par] = 0
+            df[par + "_temp"] = 0
 
     df["ANC_µeq/l"] = (
         df["Ca_µeq/l"]
         + df["Mg_µeq/l"]
         + df["Na_µeq/l"]
-        + df["K_µeq/l"]
-        + df["NH4-N_µeq/l"]
+        + df["K_µeq/l_temp"]
+        + df["NH4-N_µeq/l_temp"]
         - df["Cl_µeq/l"]
         - df["SO4_µeq/l"]
         - df["NO3-N_µeq/l"]
     )
+
+    del df["NH4-N_µeq/l_temp"], df["K_µeq/l_temp"]
 
     if anc_oaa:
         df["ANCoaa_µeq/l"] = df["ANC_µeq/l"] - 3.4 * df["TOC_mg C/l"]

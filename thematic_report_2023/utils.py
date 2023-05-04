@@ -438,7 +438,7 @@ def calculate_organic_anions(df, site_density, pK1=3.04, pK2=4.42, pK3=6.70):
     (2003) https://doi.org/10.1021/es0201552.
 
     Args
-        df:           Dataframe. Must conatin columns named 'pH_' and 'TOC_mg C/l'
+        df:           Dataframe. Must contain columns named 'pH_' and 'TOC_mg C/l'
         site_density: Float. The number of acidic functional groups
                       per milligram of organic carbon. Often assumed to be 10.2,
                       but may vary considerably. See
@@ -487,3 +487,40 @@ def calculate_bicarbonate(df):
     df["HCO3_µeq/l"] = np.where(df["HCO3_µeq/l"] < 0, 0, df["HCO3_µeq/l"])
 
     return df
+
+
+def double_mad_from_median(data, thresh=3.5):
+    """Simple test for outliers in 1D data. Based on the standard MAD approach, but
+    modified slightly to allow for skewed datasets. See the example in R here:
+    http://eurekastatistics.com/using-the-median-absolute-deviation-to-find-outliers/
+    (especially the section "Unsymmetric Distributions and the Double MAD". The
+    Python code is based on this post
+    
+        https://stackoverflow.com/a/29222992/505698
+    
+    See also here
+    
+        https://stackoverflow.com/a/22357811/505698
+    
+    Args
+        data:   Array-like. 1D array of values.
+        thresh: Float. Default 3.5. Larger values detect fewer outliers. See the
+                section entitled "Z-Scores and Modified Z-Scores" here
+                https://www.itl.nist.gov/div898/handbook/eda/section3/eda35h.htm
+    Returns
+        Array of Bools where ones indicate outliers.
+    """
+    m = np.nanmedian(data)
+    abs_dev = np.abs(data - m)
+    left_mad = np.median(abs_dev[data <= m])
+    right_mad = np.median(abs_dev[data >= m])
+    if (left_mad == 0) or (right_mad == 0):
+        # Don't identify any outliers. Not strictly correct - see links above!
+        return np.zeros_like(data, dtype=bool)
+
+    data_mad = left_mad * np.ones(len(data))
+    data_mad[data > m] = right_mad
+    modified_z_score = 0.6745 * abs_dev / data_mad
+    modified_z_score[data == m] = 0
+
+    return modified_z_score > thresh

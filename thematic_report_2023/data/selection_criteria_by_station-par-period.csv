@@ -1847,8 +1847,8 @@ station_id,period,ANC_µeq/l,CaMg_µeq/l,Ca_µeq/l,Cl_µeq/l,HCO3_µeq/l,H_µeq/
 38468,1990-2020,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,US_0143400680,"East Branch Neversink River, Catskills",United States
 38468,1998-2012,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,US_0143400680,"East Branch Neversink River, Catskills",United States
 38468,2006-2020,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,US_0143400680,"East Branch Neversink River, Catskills",United States
-38469,1990-2004,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,US_01434021,"West Branch Neversink River at Winnisook, Catskills",United States
-38469,1990-2020,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,US_01434021,"West Branch Neversink River at Winnisook, Catskills",United States
+38469,1990-2004,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,US_01434021,"West Branch Neversink River at Winnisook, Catskills",United States
+38469,1990-2020,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,US_01434021,"West Branch Neversink River at Winnisook, Catskills",United States
 38469,1998-2012,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,US_01434021,"West Branch Neversink River at Winnisook, Catskills",United States
 38469,2006-2020,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,US_01434021,"West Branch Neversink River at Winnisook, Catskills",United States
 38470,1990-2004,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,US_01434025,"Biscuit Brook, Catskills",United States

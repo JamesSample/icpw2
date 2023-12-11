@@ -332,27 +332,27 @@ station_id,period,ANC_µeq/l,CaMg_µeq/l,Ca_µeq/l,Cl_µeq/l,HCO3_µeq/l,H_µeq/
 12710,1998-2012,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1251-601,Oddmunddalsvatnet,Norway
 12710,2006-2020,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1251-601,Oddmunddalsvatnet,Norway
 23472,1990-2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CH03,Lago di Tomè,Switzerland
-23472,1990-2020,1,1,1,1,0,1,1,1,0,1,1,0,1,1,0,CH03,Lago di Tomè,Switzerland
+23472,1990-2020,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,CH03,Lago di Tomè,Switzerland
 23472,1998-2012,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,CH03,Lago di Tomè,Switzerland
 23472,2006-2020,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,CH03,Lago di Tomè,Switzerland
-23474,1990-2004,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,CH05,Laghetto Inferiore,Switzerland
-23474,1990-2020,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,CH05,Laghetto Inferiore,Switzerland
+23474,1990-2004,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,CH05,Laghetto Inferiore,Switzerland
+23474,1990-2020,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,CH05,Laghetto Inferiore,Switzerland
 23474,1998-2012,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,CH05,Laghetto Inferiore,Switzerland
 23474,2006-2020,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,CH05,Laghetto Inferiore,Switzerland
 23475,1990-2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CH06,Laghetto Superiore,Switzerland
-23475,1990-2020,1,1,1,1,0,1,1,1,0,1,1,0,1,1,0,CH06,Laghetto Superiore,Switzerland
+23475,1990-2020,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,CH06,Laghetto Superiore,Switzerland
 23475,1998-2012,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,CH06,Laghetto Superiore,Switzerland
 23475,2006-2020,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,CH06,Laghetto Superiore,Switzerland
 23478,1990-2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CH09,Lago Nero,Switzerland
-23478,1990-2020,1,1,1,0,0,1,1,1,0,0,1,0,1,1,0,CH09,Lago Nero,Switzerland
+23478,1990-2020,1,1,1,0,1,1,1,1,0,0,1,1,1,1,1,CH09,Lago Nero,Switzerland
 23478,1998-2012,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,CH09,Lago Nero,Switzerland
 23478,2006-2020,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,CH09,Lago Nero,Switzerland
 23488,1990-2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CH19,Lago d'Alzasca,Switzerland
-23488,1990-2020,1,1,1,1,0,1,1,1,0,1,1,0,1,1,0,CH19,Lago d'Alzasca,Switzerland
+23488,1990-2020,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,CH19,Lago d'Alzasca,Switzerland
 23488,1998-2012,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,CH19,Lago d'Alzasca,Switzerland
 23488,2006-2020,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,CH19,Lago d'Alzasca,Switzerland
 23489,1990-2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CH20,Lago del Starlaresc da Sgiof,Switzerland
-23489,1990-2020,1,1,1,1,0,1,1,1,0,1,1,0,1,1,0,CH20,Lago del Starlaresc da Sgiof,Switzerland
+23489,1990-2020,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,CH20,Lago del Starlaresc da Sgiof,Switzerland
 23489,1998-2012,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,CH20,Lago del Starlaresc da Sgiof,Switzerland
 23489,2006-2020,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,CH20,Lago del Starlaresc da Sgiof,Switzerland
 23495,1990-2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CH26,Maggia,Switzerland
@@ -503,29 +503,29 @@ station_id,period,ANC_µeq/l,CaMg_µeq/l,Ca_µeq/l,Cl_µeq/l,HCO3_µeq/l,H_µeq/
 23561,1990-2020,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,IE10,"Donegal, Lough Veagh, Inflow 2",Ireland
 23561,1998-2012,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,IE10,"Donegal, Lough Veagh, Inflow 2",Ireland
 23561,2006-2020,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,IE10,"Donegal, Lough Veagh, Inflow 2",Ireland
-23562,1990-2004,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,IT01,"Piemonte, Lake Paione Inferiore",Italy
-23562,1990-2020,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,IT01,"Piemonte, Lake Paione Inferiore",Italy
-23562,1998-2012,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,IT01,"Piemonte, Lake Paione Inferiore",Italy
+23562,1990-2004,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,IT01,"Piemonte, Lake Paione Inferiore",Italy
+23562,1990-2020,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,IT01,"Piemonte, Lake Paione Inferiore",Italy
+23562,1998-2012,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,IT01,"Piemonte, Lake Paione Inferiore",Italy
 23562,2006-2020,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,IT01,"Piemonte, Lake Paione Inferiore",Italy
-23563,1990-2004,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,IT02,"Piemonte, Lake di Mergozzo",Italy
-23563,1990-2020,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,IT02,"Piemonte, Lake di Mergozzo",Italy
-23563,1998-2012,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,IT02,"Piemonte, Lake di Mergozzo",Italy
+23563,1990-2004,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,IT02,"Piemonte, Lake di Mergozzo",Italy
+23563,1990-2020,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,IT02,"Piemonte, Lake di Mergozzo",Italy
+23563,1998-2012,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,IT02,"Piemonte, Lake di Mergozzo",Italy
 23563,2006-2020,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,IT02,"Piemonte, Lake di Mergozzo",Italy
-23564,1990-2004,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,IT03,"Piemonte, Lake Paione Superiore",Italy
-23564,1990-2020,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,IT03,"Piemonte, Lake Paione Superiore",Italy
-23564,1998-2012,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,IT03,"Piemonte, Lake Paione Superiore",Italy
+23564,1990-2004,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,IT03,"Piemonte, Lake Paione Superiore",Italy
+23564,1990-2020,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,IT03,"Piemonte, Lake Paione Superiore",Italy
+23564,1998-2012,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,IT03,"Piemonte, Lake Paione Superiore",Italy
 23564,2006-2020,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,IT03,"Piemonte, Lake Paione Superiore",Italy
-23565,1990-2004,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,IT04,"Piemonte, River Cannobino",Italy
-23565,1990-2020,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,IT04,"Piemonte, River Cannobino",Italy
-23565,1998-2012,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,IT04,"Piemonte, River Cannobino",Italy
+23565,1990-2004,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,IT04,"Piemonte, River Cannobino",Italy
+23565,1990-2020,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,IT04,"Piemonte, River Cannobino",Italy
+23565,1998-2012,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,IT04,"Piemonte, River Cannobino",Italy
 23565,2006-2020,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,IT04,"Piemonte, River Cannobino",Italy
-23566,1990-2004,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,IT05,"Piemonte, River Pellino",Italy
+23566,1990-2004,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,IT05,"Piemonte, River Pellino",Italy
 23566,1990-2020,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,IT05,"Piemonte, River Pellino",Italy
-23566,1998-2012,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,IT05,"Piemonte, River Pellino",Italy
+23566,1998-2012,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,IT05,"Piemonte, River Pellino",Italy
 23566,2006-2020,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,IT05,"Piemonte, River Pellino",Italy
-23567,1990-2004,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,IT06,"Piemonte, River Pellesino",Italy
+23567,1990-2004,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,IT06,"Piemonte, River Pellesino",Italy
 23567,1990-2020,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,IT06,"Piemonte, River Pellesino",Italy
-23567,1998-2012,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,IT06,"Piemonte, River Pellesino",Italy
+23567,1998-2012,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,IT06,"Piemonte, River Pellesino",Italy
 23567,2006-2020,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,IT06,"Piemonte, River Pellesino",Italy
 23586,1990-2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PL03,"Karkonosze, Maly Stav",Poland
 23586,1990-2020,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PL03,"Karkonosze, Maly Stav",Poland
@@ -2212,6 +2212,6 @@ station_id,period,ANC_µeq/l,CaMg_µeq/l,Ca_µeq/l,Cl_µeq/l,HCO3_µeq/l,H_µeq/
 38827,1998-2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NL_SCH,Schaapsven,Netherlands
 38827,2006-2020,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NL_SCH,Schaapsven,Netherlands
 38831,1990-2004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CH18,Lago di Sascòla,Switzerland
-38831,1990-2020,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,CH18,Lago di Sascòla,Switzerland
+38831,1990-2020,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,CH18,Lago di Sascòla,Switzerland
 38831,1998-2012,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,CH18,Lago di Sascòla,Switzerland
 38831,2006-2020,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,CH18,Lago di Sascòla,Switzerland
